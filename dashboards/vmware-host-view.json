@@ -280,7 +280,7 @@
               {
                 "targetBlank": true,
                 "title": "$vm",
-                "url": "d/nfvVMwvmV/vm-view?${__url_time_range}&${datasource:queryparam}&${job:queryparam}&${vcenter:queryparam}&${datacenter:queryparam}&${dcmo:queryparam}&${dchostfolder:queryparam}&${computemo:queryparam}&${cluster:queryparam}&${clustermo:queryparam}&${host:queryparam}&${hostmo:queryparam}&var-vm=${__field.labels.vm}&var-vmmo=${__field.labels.vmmo}"
+                "url": "d/VMwExVmV/vm-view?${__url_time_range}&${datasource:queryparam}&${job:queryparam}&${vcenter:queryparam}&${datacenter:queryparam}&${dcmo:queryparam}&${dchostfolder:queryparam}&${computemo:queryparam}&${cluster:queryparam}&${clustermo:queryparam}&${host:queryparam}&${hostmo:queryparam}&var-vm=${__field.labels.vm}&var-vmmo=${__field.labels.vmmo}"
               }
             ],
             "mappings": [],
