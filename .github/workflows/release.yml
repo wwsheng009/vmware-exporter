@@ -36,7 +36,7 @@ jobs:
         with:
           files: |
             vmware-exporter-linux-amd64.tar.gz
-          tag_name: ${{ github.ref || inputs.version }}
+          tag_name: ${{ github.ref_name || inputs.version }}
           name: ${{ github.ref_name || inputs.version }}
           body: |
             VMware Exporter ${{ github.ref_name }}
